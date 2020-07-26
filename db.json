@@ -2,16 +2,6 @@
    "listCategorys":{
       "items":[
          {
-            "id":"2b8b3da2-20cb-45f8-946f-1920c7fd9b31",
-            "name":"Masalas",
-            "parentCategoryId":"e59bcc4c-f341-4288-8e0e-9c37ddc0d7b6"
-         },
-         {
-            "id":"1a18be98-7903-47ec-a46a-115096614f70",
-            "name":"Powdered",
-            "parentCategoryId":"2b8b3da2-20cb-45f8-946f-1920c7fd9b31"
-         },
-         {
             "id":"7edbd660-34a2-401c-85ec-2e8a2b68b3f1",
             "name":"Ghee",
             "parentCategoryId":"a5e937b4-20ee-40cf-bbe8-575495cabc58"
