@@ -4,204 +4,94 @@
          {
             "id":"2b8b3da2-20cb-45f8-946f-1920c7fd9b31",
             "name":"Masalas",
-            "parentCategoryId":"e59bcc4c-f341-4288-8e0e-9c37ddc0d7b6",
-            "createdAt":"2020-06-20T17:22:10.973Z",
-            "updatedAt":"2020-06-20T17:22:10.973Z",
-            "products":{
-               "nextToken":null,
-               "startedAt":null
-            }
+            "parentCategoryId":"e59bcc4c-f341-4288-8e0e-9c37ddc0d7b6"
          },
          {
             "id":"1a18be98-7903-47ec-a46a-115096614f70",
             "name":"Powdered",
-            "parentCategoryId":"2b8b3da2-20cb-45f8-946f-1920c7fd9b31",
-            "createdAt":"2020-06-20T17:22:59.026Z",
-            "updatedAt":"2020-06-20T17:22:59.026Z",
-            "products":{
-               "nextToken":null,
-               "startedAt":null
-            }
+            "parentCategoryId":"2b8b3da2-20cb-45f8-946f-1920c7fd9b31"
          },
          {
             "id":"7edbd660-34a2-401c-85ec-2e8a2b68b3f1",
             "name":"Ghee",
-            "parentCategoryId":"a5e937b4-20ee-40cf-bbe8-575495cabc58",
-            "createdAt":"2020-06-07T14:15:31.546Z",
-            "updatedAt":"2020-06-07T14:15:31.546Z",
-            "products":{
-               "nextToken":null,
-               "startedAt":null
-            }
+            "parentCategoryId":"a5e937b4-20ee-40cf-bbe8-575495cabc58"
          },
          {
             "id":"f9e06014-eb02-47c0-af49-4474a7850b3c",
             "name":"Salt",
-            "parentCategoryId":"e8a717a7-cd6c-40a5-9a19-93c01a1b5f0c",
-            "createdAt":"2020-06-20T17:17:21.215Z",
-            "updatedAt":"2020-06-20T17:17:21.215Z",
-            "products":{
-               "nextToken":null,
-               "startedAt":null
-            }
+            "parentCategoryId":"e8a717a7-cd6c-40a5-9a19-93c01a1b5f0c"
          },
          {
             "id":"a5e937b4-20ee-40cf-bbe8-575495cabc58",
             "name":"Oils & Ghee",
-            "parentCategoryId":"e59bcc4c-f341-4288-8e0e-9c37ddc0d7b6",
-            "createdAt":"2020-06-07T14:15:13.190Z",
-            "updatedAt":"2020-06-07T14:15:13.190Z",
-            "products":{
-               "nextToken":null,
-               "startedAt":null
-            }
+            "parentCategoryId":"e59bcc4c-f341-4288-8e0e-9c37ddc0d7b6"
          },
          {
             "id":"3a454af8-d3d9-43f3-9c69-7272862e3a36",
             "name":"Chocolates & Candies",
-            "parentCategoryId":"b123dc87-962f-45be-bdba-3847f09a139e",
-            "createdAt":"2020-06-14T07:40:24.795Z",
-            "updatedAt":"2020-06-14T07:40:24.795Z",
-            "products":{
-               "nextToken":null,
-               "startedAt":null
-            }
+            "parentCategoryId":"b123dc87-962f-45be-bdba-3847f09a139e"
          },
          {
             "id":"33326ca4-ad25-45ab-b8ee-0ef20c6cda8e",
             "name":"Mustard Oil",
-            "parentCategoryId":"a5e937b4-20ee-40cf-bbe8-575495cabc58",
-            "createdAt":"2020-06-14T06:31:49.077Z",
-            "updatedAt":"2020-06-14T06:31:49.077Z",
-            "products":{
-               "nextToken":null,
-               "startedAt":null
-            }
+            "parentCategoryId":"a5e937b4-20ee-40cf-bbe8-575495cabc58"
          },
          {
             "id":"e8a717a7-cd6c-40a5-9a19-93c01a1b5f0c",
             "name":"Sugar, Salt & Gud",
-            "parentCategoryId":"e59bcc4c-f341-4288-8e0e-9c37ddc0d7b6",
-            "createdAt":"2020-06-20T17:17:15.486Z",
-            "updatedAt":"2020-06-20T17:17:15.486Z",
-            "products":{
-               "nextToken":null,
-               "startedAt":null
-            }
+            "parentCategoryId":"e59bcc4c-f341-4288-8e0e-9c37ddc0d7b6"
          },
          {
             "id":"e59bcc4c-f341-4288-8e0e-9c37ddc0d7b6",
             "name":"Grocery",
-            "parentCategoryId":"",
-            "createdAt":"2020-06-07T14:14:31.289Z",
-            "updatedAt":"2020-06-07T14:14:31.289Z",
-            "products":{
-               "nextToken":null,
-               "startedAt":null
-            }
+            "parentCategoryId":""
          },
          {
             "id":"9ecfaf2e-67de-4b4c-a342-787092811409",
             "name":"Atta & Sooji",
-            "parentCategoryId":"e59bcc4c-f341-4288-8e0e-9c37ddc0d7b6",
-            "createdAt":"2020-06-20T17:05:08.920Z",
-            "updatedAt":"2020-06-20T17:05:08.920Z",
-            "products":{
-               "nextToken":null,
-               "startedAt":null
-            }
+            "parentCategoryId":"e59bcc4c-f341-4288-8e0e-9c37ddc0d7b6"
          },
          {
             "id":"70534ef0-d66e-4b62-8f16-3d5fd5475104",
             "name":"Leaf Tea",
-            "parentCategoryId":"2140a316-72e7-4932-b627-dfaf288df46b",
-            "createdAt":"2020-07-05T08:26:53.448Z",
-            "updatedAt":"2020-07-05T08:26:53.448Z",
-            "products":{
-               "nextToken":null,
-               "startedAt":null
-            }
+            "parentCategoryId":"2140a316-72e7-4932-b627-dfaf288df46b"
          },
          {
             "id":"e643f3a9-85bd-49de-9bb2-35b084fa24b3",
             "name":"Cakes & Dairy",
-            "parentCategoryId":"b123dc87-962f-45be-bdba-3847f09a139e",
-            "createdAt":"2020-06-14T07:07:36.479Z",
-            "updatedAt":"2020-06-14T07:07:36.479Z",
-            "products":{
-               "nextToken":null,
-               "startedAt":null
-            }
+            "parentCategoryId":"b123dc87-962f-45be-bdba-3847f09a139e"
          },
          {
             "id":"2140a316-72e7-4932-b627-dfaf288df46b",
             "name":"Tea",
-            "parentCategoryId":"c7a9a4c2-caeb-4cb1-964a-c0a766047353",
-            "createdAt":"2020-07-05T08:26:46.905Z",
-            "updatedAt":"2020-07-05T08:26:46.905Z",
-            "products":{
-               "nextToken":null,
-               "startedAt":null
-            }
+            "parentCategoryId":"c7a9a4c2-caeb-4cb1-964a-c0a766047353"
          },
          {
             "id":"753dbc14-022b-4e06-b7b5-0fd5420563fd",
             "name":"Rusk",
-            "parentCategoryId":"e643f3a9-85bd-49de-9bb2-35b084fa24b3",
-            "createdAt":"2020-06-14T07:07:55.537Z",
-            "updatedAt":"2020-06-14T07:07:55.537Z",
-            "products":{
-               "nextToken":null,
-               "startedAt":null
-            }
+            "parentCategoryId":"e643f3a9-85bd-49de-9bb2-35b084fa24b3"
          },
          {
             "id":"3ee20d66-2e60-499d-b3e9-32b475308f04",
             "name":"Chocolates",
-            "parentCategoryId":"3a454af8-d3d9-43f3-9c69-7272862e3a36",
-            "createdAt":"2020-06-14T07:40:32.559Z",
-            "updatedAt":"2020-06-14T07:40:32.559Z",
-            "products":{
-               "nextToken":null,
-               "startedAt":null
-            }
+            "parentCategoryId":"3a454af8-d3d9-43f3-9c69-7272862e3a36"
          },
          {
             "id":"0298427e-bb1a-4aeb-9baa-4a5cd9fb27f5",
             "name":"Atta",
-            "parentCategoryId":"9ecfaf2e-67de-4b4c-a342-787092811409",
-            "createdAt":"2020-06-20T17:05:16.407Z",
-            "updatedAt":"2020-06-20T17:05:16.407Z",
-            "products":{
-               "nextToken":null,
-               "startedAt":null
-            }
+            "parentCategoryId":"9ecfaf2e-67de-4b4c-a342-787092811409"
          },
          {
             "id":"fba3f022-b53e-4d78-b053-044e9de8d0ab",
             "name":"Soyabean Oil",
-            "parentCategoryId":"a5e937b4-20ee-40cf-bbe8-575495cabc58",
-            "createdAt":"2020-06-14T07:16:32.516Z",
-            "updatedAt":"2020-06-14T07:16:32.516Z",
-            "products":{
-               "nextToken":null,
-               "startedAt":null
-            }
+            "parentCategoryId":"a5e937b4-20ee-40cf-bbe8-575495cabc58"
          },
          {
             "id":"c7a9a4c2-caeb-4cb1-964a-c0a766047353",
             "name":"Beverages",
-            "parentCategoryId":"",
-            "createdAt":"2020-07-05T08:26:18.533Z",
-            "updatedAt":"2020-07-05T08:26:18.533Z",
-            "products":{
-               "nextToken":null,
-               "startedAt":null
-            }
+            "parentCategoryId":""
          }
-      ],
-      "nextToken":null,
-      "startedAt":null
+      ]
    },
    "listBrands":{
       "items":[
@@ -209,77 +99,57 @@
             "id":"e5f59bcf-e64b-4570-9786-4068d77e034c",
             "name":"Cadbury",
             "description":"Chocolate",
-            "address":"Chocolate",
-            "createdAt":"2020-06-20T14:05:05.167Z",
-            "updatedAt":"2020-06-20T14:05:05.167Z"
+            "address":"Chocolate"
          },
          {
             "id":"c2764e9c-ea7d-4ffb-bc98-b30bb6661f3d",
             "name":"MTR",
             "description":"MTR Foods is a food products company based in Bengaluru, India. The company manufactures a range of packaged foods including breakfast mixes, ready to eat meals, masalas and spices, snacks and beverages. MTR Foods Pvt. Ltd. is a subsidiary of Norwegian conglomerate Orkla.",
-            "address":"Manufatured & Packed by MTR FOODS PVT LTD # 80 bommasandra industrial area , hebbagodi, anekal taluk bengaluru 560099 ",
-            "createdAt":"2020-06-20T17:51:34.938Z",
-            "updatedAt":"2020-06-20T17:51:34.938Z"
+            "address":"Manufatured & Packed by MTR FOODS PVT LTD # 80 bommasandra industrial area , hebbagodi, anekal taluk bengaluru 560099 "
          },
          {
             "id":"664665c0-ac2d-430a-a111-464634aa3e65",
             "name":"Britannia",
             "description":"test",
-            "address":"test",
-            "createdAt":"2020-06-19T10:35:24.434Z",
-            "updatedAt":"2020-06-19T10:35:24.434Z"
+            "address":"test"
          },
          {
             "id":"744d2cbb-66bb-4b3c-92f6-92c820d9ac85",
             "name":"Paras",
             "description":"test",
-            "address":"test",
-            "createdAt":"2020-06-19T11:30:41.698Z",
-            "updatedAt":"2020-06-19T11:30:41.698Z"
+            "address":"test"
          },
          {
             "id":"1393fdf9-d042-4b16-826b-7b9fca0fa605",
             "name":"Tata",
             "description":"Tata and quality are synonymous in the world today.",
-            "address":"Tata Chemicals Limited, Leela Business Park, Andheri-kurla Road, Andheri East, Mumbai, Maharashtra - 400059",
-            "createdAt":"2020-06-20T17:23:18.994Z",
-            "updatedAt":"2020-06-20T17:23:18.994Z"
+            "address":"Tata Chemicals Limited, Leela Business Park, Andheri-kurla Road, Andheri East, Mumbai, Maharashtra - 400059"
          },
          {
             "id":"464b0fa7-0d6c-493d-96cc-c06b483022c9",
             "name":"Gowardhan",
             "description":"test",
-            "address":"test",
-            "createdAt":"2020-06-19T11:18:31.971Z",
-            "updatedAt":"2020-06-19T11:18:31.971Z"
+            "address":"test"
          },
          {
             "id":"35c6a087-854a-4b4c-9207-599208f0a0d9",
             "name":"Aashirvaad",
             "description":"AASHIRVAAD believes in giving you nothing but the best. This is why the ingredients are carefully hand-picked and processed with the same love and care with which you prepare your food. AASHIRVAAD covers the range of atta, ghee, salt, spices and instant mixes. AASHIRVAAD goes straight to the source to hand pick the finest grains and spices to produce the best ingredients that you can use in your kitchen. To lock in the freshness of the products, AASHIRVAAD uses world class technology in packaging across all categories - whether it is the PET Poly packaging used to give you fresh chakki Atta or the four-layer international pouch to retain the flavour of tastefully crafted Instant Mixes.",
-            "address":"ITC Limited, 37, J.L. Nehru Road, Kolkata- 700071 ",
-            "createdAt":"2020-06-20T17:07:41.568Z",
-            "updatedAt":"2020-06-20T17:07:41.568Z"
+            "address":"ITC Limited, 37, J.L. Nehru Road, Kolkata- 700071 "
          },
          {
             "id":"07c51080-6f68-45a3-9eeb-eac6e7b3875a",
             "name":"Fortune",
             "description":"test",
-            "address":"test",
-            "createdAt":"2020-06-19T10:51:54.634Z",
-            "updatedAt":"2020-06-19T10:51:54.634Z"
+            "address":"test"
          },
          {
             "id":"c5373c34-2cee-4e62-b0f9-88e5f4cf9ce2",
             "name":"Patanjali",
             "description":"test",
-            "address":"test",
-            "createdAt":"2020-06-19T11:22:30.922Z",
-            "updatedAt":"2020-06-19T11:22:30.922Z"
+            "address":"test"
          }
-      ],
-      "nextToken":null,
-      "startedAt":null
+      ]
    },
    "listProducts":{
       "items":[
@@ -308,9 +178,7 @@
             "images":[
                "Grocery/Atta & Sooji/Atta/6902175110499_Aashirvaad_Atta - Whole Wheat_0.jpg"
             ],
-            "brandId":"35c6a087-854a-4b4c-9207-599208f0a0d9",
-            "createdAt":"2020-06-20T17:08:49.903Z",
-            "updatedAt":"2020-06-20T17:08:49.903Z"
+            "brandId":"35c6a087-854a-4b4c-9207-599208f0a0d9"
          },
          {
             "id":"99033f06-0214-42e8-b546-8a762f95fcf7",
@@ -337,9 +205,7 @@
             "images":[
                "Grocery/Atta & Sooji/Atta/8901725109370_Aashirvaad_Atta - Whole Wheat_0.jpg"
             ],
-            "brandId":"35c6a087-854a-4b4c-9207-599208f0a0d9",
-            "createdAt":"2020-06-20T17:11:18.656Z",
-            "updatedAt":"2020-06-20T17:11:18.656Z"
+            "brandId":"35c6a087-854a-4b4c-9207-599208f0a0d9"
          },
          {
             "id":"b54aeb0d-1c35-4042-a47f-6a50cbba5352",
@@ -363,9 +229,7 @@
             "images":[
                "Grocery/Oils & Ghee/Soyabean Oil/8901042954738_Fortune_Sunflower Refined Oil_0.jpg"
             ],
-            "brandId":"07c51080-6f68-45a3-9eeb-eac6e7b3875a",
-            "createdAt":"2020-06-20T17:55:12.715Z",
-            "updatedAt":"2020-06-20T17:55:12.715Z"
+            "brandId":"07c51080-6f68-45a3-9eeb-eac6e7b3875a"
          },
          {
             "id":"73174463-db58-4b82-9d7e-444109ac7e78",
@@ -392,9 +256,7 @@
             "images":[
 
             ],
-            "brandId":"35c6a087-854a-4b4c-9207-599208f0a0d9",
-            "createdAt":"2020-06-20T17:14:47.969Z",
-            "updatedAt":"2020-06-20T17:14:47.969Z"
+            "brandId":"35c6a087-854a-4b4c-9207-599208f0a0d9"
          },
          {
             "id":"f26f4e89-a301-4211-af71-01525c9e24de",
@@ -418,9 +280,7 @@
             "images":[
                "Grocery/Oils & Ghee/Mustard Oil/890600720969_Fortune_Kachi Ghani Mustard Oil_0.jpg"
             ],
-            "brandId":"07c51080-6f68-45a3-9eeb-eac6e7b3875a",
-            "createdAt":"2020-06-20T17:57:52.055Z",
-            "updatedAt":"2020-06-20T17:57:52.055Z"
+            "brandId":"07c51080-6f68-45a3-9eeb-eac6e7b3875a"
          },
          {
             "id":"32b87cc4-423f-4b1b-a104-0da62dc45c12",
@@ -445,9 +305,7 @@
             "images":[
                "Grocery/Masalas/Powdered/40015748_MTR_Powder - Turmeric_0.jpg"
             ],
-            "brandId":"c2764e9c-ea7d-4ffb-bc98-b30bb6661f3d",
-            "createdAt":"2020-06-20T17:51:40.574Z",
-            "updatedAt":"2020-06-20T17:51:40.574Z"
+            "brandId":"c2764e9c-ea7d-4ffb-bc98-b30bb6661f3d"
          },
          {
             "id":"92f42d66-3802-4195-86c3-3605aab40041",
@@ -473,12 +331,8 @@
             "images":[
                "Beverages/Tea/Leaf Tea/890103045358_Red_Label Tea - Natural Care_0.jpg"
             ],
-            "brandId":null,
-            "createdAt":"2020-07-05T08:28:57.245Z",
-            "updatedAt":"2020-07-05T08:28:57.245Z"
+            "brandId":null
          }
-      ],
-      "nextToken":null,
-      "startedAt":null
+      ]
    }
 }
