@@ -68,52 +68,6 @@
          }
       ]
    },
-   "listBrands":{
-      "items":[
-         {
-            "id":"664665c0-ac2d-430a-a111-464634aa3e65",
-            "name":"Britannia",
-            "description":"test",
-            "address":"test"
-         },
-         {
-            "id":"744d2cbb-66bb-4b3c-92f6-92c820d9ac85",
-            "name":"Paras",
-            "description":"test",
-            "address":"test"
-         },
-         {
-            "id":"1393fdf9-d042-4b16-826b-7b9fca0fa605",
-            "name":"Tata",
-            "description":"Tata and quality are synonymous in the world today.",
-            "address":"Tata Chemicals Limited, Leela Business Park, Andheri-kurla Road, Andheri East, Mumbai, Maharashtra - 400059"
-         },
-         {
-            "id":"464b0fa7-0d6c-493d-96cc-c06b483022c9",
-            "name":"Gowardhan",
-            "description":"test",
-            "address":"test"
-         },
-         {
-            "id":"35c6a087-854a-4b4c-9207-599208f0a0d9",
-            "name":"Aashirvaad",
-            "description":"AASHIRVAAD believes in giving you nothing but the best. This is why the ingredients are carefully hand-picked and processed with the same love and care with which you prepare your food. AASHIRVAAD covers the range of atta, ghee, salt, spices and instant mixes. AASHIRVAAD goes straight to the source to hand pick the finest grains and spices to produce the best ingredients that you can use in your kitchen. To lock in the freshness of the products, AASHIRVAAD uses world class technology in packaging across all categories - whether it is the PET Poly packaging used to give you fresh chakki Atta or the four-layer international pouch to retain the flavour of tastefully crafted Instant Mixes.",
-            "address":"ITC Limited, 37, J.L. Nehru Road, Kolkata- 700071 "
-         },
-         {
-            "id":"07c51080-6f68-45a3-9eeb-eac6e7b3875a",
-            "name":"Fortune",
-            "description":"test",
-            "address":"test"
-         },
-         {
-            "id":"c5373c34-2cee-4e62-b0f9-88e5f4cf9ce2",
-            "name":"Patanjali",
-            "description":"test",
-            "address":"test"
-         }
-      ]
-   },
    "listProducts":{
       "items":[
          {
