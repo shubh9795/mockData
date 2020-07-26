@@ -281,57 +281,6 @@
                "Grocery/Oils & Ghee/Mustard Oil/890600720969_Fortune_Kachi Ghani Mustard Oil_0.jpg"
             ],
             "brandId":"07c51080-6f68-45a3-9eeb-eac6e7b3875a"
-         },
-         {
-            "id":"32b87cc4-423f-4b1b-a104-0da62dc45c12",
-            "name":"MTR Powder - Turmeric",
-            "description":"MTR turmeric powder is one of the most reliable spices as the powder is extracted from high quality turmeric known as Sangali. They are packed with care so that the spice retains its freshness, colour and flavour till it reaches your home. Turmeric is one of the most-used spices in Indian household, and there is probably no dish that does not contain this spice. Adding this spice to the food gives it a bright yellow colour.",
-            "mrp":60.0,
-            "sellingPrice":60.0,
-            "discountPercentage":0.0,
-            "inventoryCount":23,
-            "unitQuantity":"200",
-            "unit":"GRAMS",
-            "barCode":"40015748",
-            "labels":[
-               "Haldi",
-               "Turmeric",
-               "MTR"
-            ],
-            "l1categoryId":"e59bcc4c-f341-4288-8e0e-9c37ddc0d7b6",
-            "l2categoryId":"2b8b3da2-20cb-45f8-946f-1920c7fd9b31",
-            "l3categoryId":"1a18be98-7903-47ec-a46a-115096614f70",
-            "imageUrl":"Grocery/Masalas/Powdered/40015748_MTR_Powder - Turmeric_mainImage.jpg",
-            "images":[
-               "Grocery/Masalas/Powdered/40015748_MTR_Powder - Turmeric_0.jpg"
-            ],
-            "brandId":"c2764e9c-ea7d-4ffb-bc98-b30bb6661f3d"
-         },
-         {
-            "id":"92f42d66-3802-4195-86c3-3605aab40041",
-            "name":"Red Label Tea - Natural Care",
-            "description":"Red Label Natural Care is from the house of Brooke bond and the brand Red Label. Red Label Natural Care Tea contains the goodness of 5 Natural Ingredients - Cardamom, Ginger, Tulsi, Mulethi & Ashwagandha, all of them are extremely beneficial for your body as they enhance immunity while giving a unique flavor to the rich tea.",
-            "mrp":135.0,
-            "sellingPrice":135.0,
-            "discountPercentage":0.0,
-            "inventoryCount":45,
-            "unitQuantity":"250",
-            "unit":"GRAMS",
-            "barCode":"890103045358",
-            "labels":[
-               "Tea",
-               "Chai",
-               "Chaipatti",
-               "Chaipati"
-            ],
-            "l1categoryId":"c7a9a4c2-caeb-4cb1-964a-c0a766047353",
-            "l2categoryId":"2140a316-72e7-4932-b627-dfaf288df46b",
-            "l3categoryId":"70534ef0-d66e-4b62-8f16-3d5fd5475104",
-            "imageUrl":"Beverages/Tea/Leaf Tea/890103045358_Red_Label Tea - Natural Care_mainImage.jpg",
-            "images":[
-               "Beverages/Tea/Leaf Tea/890103045358_Red_Label Tea - Natural Care_0.jpg"
-            ],
-            "brandId":null
          }
       ]
    }
