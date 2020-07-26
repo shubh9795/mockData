@@ -46,28 +46,6 @@
             }
          },
          {
-            "id":"5e298a9c-d18c-42e0-b077-0ad69539ffe3",
-            "name":"Curd",
-            "parentCategoryId":"e643f3a9-85bd-49de-9bb2-35b084fa24b3",
-            "createdAt":"2020-06-20T06:23:42.954Z",
-            "updatedAt":"2020-06-20T06:23:42.954Z",
-            "products":{
-               "nextToken":null,
-               "startedAt":null
-            }
-         },
-         {
-            "id":"3b87c3e0-bdc3-4f72-8203-5b3a4c2ed38c",
-            "name":"Arhar",
-            "parentCategoryId":"e39418ac-d47f-44cb-8a85-e6703de4da67",
-            "createdAt":"2020-06-13T19:08:23.255Z",
-            "updatedAt":"2020-06-13T19:08:23.255Z",
-            "products":{
-               "nextToken":null,
-               "startedAt":null
-            }
-         },
-         {
             "id":"a5e937b4-20ee-40cf-bbe8-575495cabc58",
             "name":"Oils & Ghee",
             "parentCategoryId":"e59bcc4c-f341-4288-8e0e-9c37ddc0d7b6",
@@ -106,17 +84,6 @@
             "parentCategoryId":"e59bcc4c-f341-4288-8e0e-9c37ddc0d7b6",
             "createdAt":"2020-06-20T17:17:15.486Z",
             "updatedAt":"2020-06-20T17:17:15.486Z",
-            "products":{
-               "nextToken":null,
-               "startedAt":null
-            }
-         },
-         {
-            "id":"b589bf49-ae8a-4ffa-a68f-46a2941460d7",
-            "name":"Cake",
-            "parentCategoryId":"e643f3a9-85bd-49de-9bb2-35b084fa24b3",
-            "createdAt":"2020-06-20T06:22:08.334Z",
-            "updatedAt":"2020-06-20T06:22:08.334Z",
             "products":{
                "nextToken":null,
                "startedAt":null
@@ -189,17 +156,6 @@
             }
          },
          {
-            "id":"e39418ac-d47f-44cb-8a85-e6703de4da67",
-            "name":"Pulses",
-            "parentCategoryId":"e59bcc4c-f341-4288-8e0e-9c37ddc0d7b6",
-            "createdAt":"2020-06-13T19:03:52.037Z",
-            "updatedAt":"2020-06-13T19:03:52.037Z",
-            "products":{
-               "nextToken":null,
-               "startedAt":null
-            }
-         },
-         {
             "id":"3ee20d66-2e60-499d-b3e9-32b475308f04",
             "name":"Chocolates",
             "parentCategoryId":"3a454af8-d3d9-43f3-9c69-7272862e3a36",
@@ -238,17 +194,6 @@
             "parentCategoryId":"",
             "createdAt":"2020-07-05T08:26:18.533Z",
             "updatedAt":"2020-07-05T08:26:18.533Z",
-            "products":{
-               "nextToken":null,
-               "startedAt":null
-            }
-         },
-         {
-            "id":"b123dc87-962f-45be-bdba-3847f09a139e",
-            "name":"Biscuits, Chocolates & Snacks",
-            "parentCategoryId":"",
-            "createdAt":"2020-06-07T15:22:43.732Z",
-            "updatedAt":"2020-06-07T15:22:43.732Z",
             "products":{
                "nextToken":null,
                "startedAt":null
@@ -505,34 +450,6 @@
             "updatedAt":"2020-06-20T17:51:40.574Z"
          },
          {
-            "id":"7134d6c1-e340-41d1-a60d-67ec7cf6544c",
-            "name":"Tata Salt Iodized",
-            "description":"Tata and quality are synonymous in the world today. Tata Iodized Salt has been a staple in kitchens for generations now. This salt was first manufactured by Tata in a vacuum sealed pack, around the year 1983. Salt is one of the most important ingredients we use in food and cooking. It is a good method for food fortification and it also adds taste and flavour to any dish.",
-            "mrp":20.0,
-            "sellingPrice":19.8,
-            "discountPercentage":1.0,
-            "inventoryCount":40,
-            "unitQuantity":"1",
-            "unit":"KG",
-            "barCode":"8904043901015",
-            "labels":[
-               "salt",
-               "namak",
-               "tata namak",
-               "desh ka namak"
-            ],
-            "l1categoryId":"e59bcc4c-f341-4288-8e0e-9c37ddc0d7b6",
-            "l2categoryId":"e8a717a7-cd6c-40a5-9a19-93c01a1b5f0c",
-            "l3categoryId":"f9e06014-eb02-47c0-af49-4474a7850b3c",
-            "imageUrl":"",
-            "images":[
-
-            ],
-            "brandId":"1393fdf9-d042-4b16-826b-7b9fca0fa605",
-            "createdAt":"2020-06-20T17:18:44.888Z",
-            "updatedAt":"2020-06-20T17:52:13.740Z"
-         },
-         {
             "id":"92f42d66-3802-4195-86c3-3605aab40041",
             "name":"Red Label Tea - Natural Care",
             "description":"Red Label Natural Care is from the house of Brooke bond and the brand Red Label. Red Label Natural Care Tea contains the goodness of 5 Natural Ingredients - Cardamom, Ginger, Tulsi, Mulethi & Ashwagandha, all of them are extremely beneficial for your body as they enhance immunity while giving a unique flavor to the rich tea.",
@@ -559,33 +476,6 @@
             "brandId":null,
             "createdAt":"2020-07-05T08:28:57.245Z",
             "updatedAt":"2020-07-05T08:28:57.245Z"
-         },
-         {
-            "id":"16739f85-000d-4135-9df4-73e9c4f9efa8",
-            "name":"MTR Powder - Turmeric",
-            "description":"MTR turmeric powder is one of the most reliable spices as the powder is extracted from high quality turmeric known as Sangali. They are packed with care so that the spice retains its freshness, colour and flavour till it reaches your home. Turmeric is one of the most-used spices in Indian household, and there is probably no dish that does not contain this spice. Adding this spice to the food gives it a bright yellow colour.",
-            "mrp":32.0,
-            "sellingPrice":32.0,
-            "discountPercentage":0.0,
-            "inventoryCount":35,
-            "unitQuantity":"100",
-            "unit":"GRAMS",
-            "barCode":"8904396350309",
-            "labels":[
-               "Haldi",
-               "Turmeric",
-               "MTR"
-            ],
-            "l1categoryId":"e59bcc4c-f341-4288-8e0e-9c37ddc0d7b6",
-            "l2categoryId":"2b8b3da2-20cb-45f8-946f-1920c7fd9b31",
-            "l3categoryId":"1a18be98-7903-47ec-a46a-115096614f70",
-            "imageUrl":"",
-            "images":[
-
-            ],
-            "brandId":"c2764e9c-ea7d-4ffb-bc98-b30bb6661f3d",
-            "createdAt":"2020-06-20T17:25:49.355Z",
-            "updatedAt":"2020-06-20T17:51:59.708Z"
          }
       ],
       "nextToken":null,
