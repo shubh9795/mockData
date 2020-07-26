@@ -17,11 +17,6 @@
             "parentCategoryId":"e59bcc4c-f341-4288-8e0e-9c37ddc0d7b6"
          },
          {
-            "id":"3a454af8-d3d9-43f3-9c69-7272862e3a36",
-            "name":"Chocolates & Candies",
-            "parentCategoryId":"b123dc87-962f-45be-bdba-3847f09a139e"
-         },
-         {
             "id":"33326ca4-ad25-45ab-b8ee-0ef20c6cda8e",
             "name":"Mustard Oil",
             "parentCategoryId":"a5e937b4-20ee-40cf-bbe8-575495cabc58"
@@ -47,11 +42,6 @@
             "parentCategoryId":"2140a316-72e7-4932-b627-dfaf288df46b"
          },
          {
-            "id":"e643f3a9-85bd-49de-9bb2-35b084fa24b3",
-            "name":"Cakes & Dairy",
-            "parentCategoryId":"b123dc87-962f-45be-bdba-3847f09a139e"
-         },
-         {
             "id":"2140a316-72e7-4932-b627-dfaf288df46b",
             "name":"Tea",
             "parentCategoryId":"c7a9a4c2-caeb-4cb1-964a-c0a766047353"
@@ -60,11 +50,6 @@
             "id":"753dbc14-022b-4e06-b7b5-0fd5420563fd",
             "name":"Rusk",
             "parentCategoryId":"e643f3a9-85bd-49de-9bb2-35b084fa24b3"
-         },
-         {
-            "id":"3ee20d66-2e60-499d-b3e9-32b475308f04",
-            "name":"Chocolates",
-            "parentCategoryId":"3a454af8-d3d9-43f3-9c69-7272862e3a36"
          },
          {
             "id":"0298427e-bb1a-4aeb-9baa-4a5cd9fb27f5",
@@ -85,18 +70,6 @@
    },
    "listBrands":{
       "items":[
-         {
-            "id":"e5f59bcf-e64b-4570-9786-4068d77e034c",
-            "name":"Cadbury",
-            "description":"Chocolate",
-            "address":"Chocolate"
-         },
-         {
-            "id":"c2764e9c-ea7d-4ffb-bc98-b30bb6661f3d",
-            "name":"MTR",
-            "description":"MTR Foods is a food products company based in Bengaluru, India. The company manufactures a range of packaged foods including breakfast mixes, ready to eat meals, masalas and spices, snacks and beverages. MTR Foods Pvt. Ltd. is a subsidiary of Norwegian conglomerate Orkla.",
-            "address":"Manufatured & Packed by MTR FOODS PVT LTD # 80 bommasandra industrial area , hebbagodi, anekal taluk bengaluru 560099 "
-         },
          {
             "id":"664665c0-ac2d-430a-a111-464634aa3e65",
             "name":"Britannia",
