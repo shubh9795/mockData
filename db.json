@@ -181,33 +181,6 @@
             "brandId":"35c6a087-854a-4b4c-9207-599208f0a0d9"
          },
          {
-            "id":"99033f06-0214-42e8-b546-8a762f95fcf7",
-            "name":"Aashirvaad Atta - Whole Wheat",
-            "description":"Aashirvaad whole wheat atta is made of zero per cent maida and 100% atta, which makes it extremely nutritious since its packed with health benefits. This also means more fluffy and soft rotis at home. Aashirvaad Atta is also made from the best grains - heavy on the palm, golden amber in colour and hard in bite. It is grounded using the chakki - grinding process for the perfect balance of colour, taste and nutrition. ",
-            "mrp":270.0,
-            "sellingPrice":268.0,
-            "discountPercentage":1.0,
-            "inventoryCount":30,
-            "unitQuantity":"5",
-            "unit":"KG",
-            "barCode":"8901725109370",
-            "labels":[
-               "aata",
-               "atta",
-               "aashirvaad",
-               "aashirwad",
-               "flour"
-            ],
-            "l1categoryId":"e59bcc4c-f341-4288-8e0e-9c37ddc0d7b6",
-            "l2categoryId":"9ecfaf2e-67de-4b4c-a342-787092811409",
-            "l3categoryId":"0298427e-bb1a-4aeb-9baa-4a5cd9fb27f5",
-            "imageUrl":"Grocery/Atta & Sooji/Atta/8901725109370_Aashirvaad_Atta - Whole Wheat_mainImage.jpg",
-            "images":[
-               "Grocery/Atta & Sooji/Atta/8901725109370_Aashirvaad_Atta - Whole Wheat_0.jpg"
-            ],
-            "brandId":"35c6a087-854a-4b4c-9207-599208f0a0d9"
-         },
-         {
             "id":"b54aeb0d-1c35-4042-a47f-6a50cbba5352",
             "name":"Fortune Sunflower Refined Oil",
             "description":"Fortune Sunflower Oil is a light, healthy and nutritious cooking oil. Being rich in vitamins and consisting mainly of polyunsaturated fatty acids, it makes food easy to digest.",
@@ -230,33 +203,6 @@
                "Grocery/Oils & Ghee/Soyabean Oil/8901042954738_Fortune_Sunflower Refined Oil_0.jpg"
             ],
             "brandId":"07c51080-6f68-45a3-9eeb-eac6e7b3875a"
-         },
-         {
-            "id":"73174463-db58-4b82-9d7e-444109ac7e78",
-            "name":"Aashirvaad Atta - Whole Wheat",
-            "description":"Aashirvaad whole wheat atta is made of zero per cent maida and 100% atta, which makes it extremely nutritious since its packed with health benefits. This also means more fluffy and soft rotis at home. Aashirvaad Atta is also made from the best grains - heavy on the palm, golden amber in colour and hard in bite. It is grounded using the chakki - grinding process for the perfect balance of colour, taste and nutrition. ",
-            "mrp":109.0,
-            "sellingPrice":108.0,
-            "discountPercentage":1.0,
-            "inventoryCount":25,
-            "unitQuantity":"2",
-            "unit":"KG",
-            "barCode":"8901725109394",
-            "labels":[
-               "aata",
-               "atta",
-               "aashirvaad",
-               "aashirwad",
-               "flour"
-            ],
-            "l1categoryId":"e59bcc4c-f341-4288-8e0e-9c37ddc0d7b6",
-            "l2categoryId":"9ecfaf2e-67de-4b4c-a342-787092811409",
-            "l3categoryId":"0298427e-bb1a-4aeb-9baa-4a5cd9fb27f5",
-            "imageUrl":"Grocery/Atta & Sooji/Atta/8901725109394_Aashirvaad_Atta - Whole Wheat_mainImage.jpg",
-            "images":[
-
-            ],
-            "brandId":"35c6a087-854a-4b4c-9207-599208f0a0d9"
          },
          {
             "id":"f26f4e89-a301-4211-af71-01525c9e24de",
